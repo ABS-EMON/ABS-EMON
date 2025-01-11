@@ -25,17 +25,17 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ABS-EMON&label=Profile%20views&color=0e75b6&style=flat" alt="ABS-EMON" /> </p>
 
-- 🔭 I’m currently working on **IoT-based Crop Recommendation System using Machine Learning for Precision Agriculture**
+- 🔭 I’m currently working on **IoT-based Air Quality Monitoring System using Machine Learning for Precision Agriculture**
 
 - 🌱 I’m currently learning **Machine Learning,AI,Robotics**
 
-- I’m currently working on **Aero-Rescue: A Smart UAV for Rescue Operation in Disaster Area.**
+- I’m currently working on **Aero-Rescue: A Smart UAV Drone for Rescue Operation in Disaster Area.**
 
 - 📫 How to reach me **abubakkar0001@std.bdu.ac.bd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-shahriar-hossain-apu-a6a51b1b2/" height="30" width="40" /></a>
+<a href="https://abs-emon.blogspot.com" target="blank"><img align="center" src="https://github.com/user-attachments/assets/eb3e73c5-b9db-4d9c-b199-1b16a6100a65" alt="ABS-EMON" height="30" width="40" /></a>
 <a href="https://web.facebook.com/p/EMON-100066781024743" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ABU BAKKAR SIDDIQUE EMON" height="30" width="40" /></a>
 <a href="https://youtube.com/@ire-programmer?si=K7MMpyEHc7dJ7wQ0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ABU BAKKAR SIDDIQUE EMON" height="30" width="40" /></a>
 </p>
