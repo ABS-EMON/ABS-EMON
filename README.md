@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 <h3 align="center">Studying at IoT and Robotics Engineering at BDU</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ABS-EMON&label=Profile%20views&color=0e75b6&style=flat" alt="ABS-EMON" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ABS-EMON" alt="ABS-EMON" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ABS-EMON&margin-w=15"><img src="https://github-profile-trophy.vercel.app/?username=ABS-EMON" alt="ABS-EMON" /></a> </p>
+
 
 - 🔭 I’m currently working on **IoT-based Air Quality Monitoring System using Machine Learning for Precision Agriculture**
 
