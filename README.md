@@ -41,8 +41,6 @@ Here are some ideas to get you started:
   **Machine Learning**, **Artificial Intelligence**, **Robotics**
 
 
-- I’m currently working on **Aero-Rescue: A Smart UAV Drone for Rescue Operation in Disaster Area.**
-
 - 📫 How to reach me **abubakkar0001@std.bdu.ac.bd**
 
 <h3 align="left">Connect with me:</h3>
