@@ -27,9 +27,19 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ABS-EMON" alt="ABS-EMON" /></a> </p>
 
 
-- 🔭 I’m currently working on **IoT-based Air Quality Monitoring System using Machine Learning for Precision Agriculture**
+- 🔭 I’m currently working on:
 
-- 🌱 I’m currently learning **Machine Learning,AI,Robotics**
+  - **RC Jet Telemetry System: Real-Time GPS Monitoring for SU-27 Fighter Jet using IoT**
+  - **AI Chatbot in Laravel with OpenAI API Integration**
+  - **Drone Flight Simulator with VR using Unity Engine**
+  - **IoT-based Real-Time Health Monitoring and Visualization System**
+  - **IoT-based Air Quality Monitoring System using Machine Learning for Precision Agriculture**
+  - **Aero-Rescue: A Smart UAV Drone for Rescue Operation in Disaster Areas**
+
+
+- 🌱 I’m currently learning:  
+  **Machine Learning**, **Artificial Intelligence**, **Robotics**
+
 
 - I’m currently working on **Aero-Rescue: A Smart UAV Drone for Rescue Operation in Disaster Area.**
 
